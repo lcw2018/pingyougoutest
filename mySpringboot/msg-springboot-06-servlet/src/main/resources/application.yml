@@ -1,0 +1,6 @@
+server:
+  port: 8081
+  servlet:
+    path: /servlet
+  tomcat:
+    max-connections: 800

@@ -1,0 +1,28 @@
+#server:
+#  port: 8081
+#
+#
+#emp:
+#  lastName: 张三
+#  age: 19
+#  salary: 20000
+#  boss: false
+#  birthday: 1992/10/11   #此处不能写成1992-10-11
+#
+#  map:
+#    worriors: xiaoqi
+#    rockets: xiaoyima
+#    lakers: jiayi
+#
+#  list:
+#    USA
+#    China
+#    Japan
+#
+#  forte:
+#    name: lisi
+#    time: 9
+#
+#
+#
+#

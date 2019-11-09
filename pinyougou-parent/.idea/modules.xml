@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-cart-interface.iml" filepath="$PROJECT_DIR$/pinyougou-cart-interface.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-cart-interface.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-cart-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-cart-service.iml" filepath="$PROJECT_DIR$/pinyougou-cart-service.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-cart-service.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-cart-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-cart-web.iml" filepath="$PROJECT_DIR$/pinyougou-cart-web.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-cart-web.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-cart-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-common.iml" filepath="$PROJECT_DIR$/pinyougou-common.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-common.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-content-interface.iml" filepath="$PROJECT_DIR$/pinyougou-content-interface.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-content-interface.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-content-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-content-service.iml" filepath="$PROJECT_DIR$/pinyougou-content-service.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-content-service.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-dao.iml" filepath="$PROJECT_DIR$/pinyougou-dao.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-dao.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-manager-web.iml" filepath="$PROJECT_DIR$/pinyougou-manager-web.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-manager-web.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-order-interface.iml" filepath="$PROJECT_DIR$/pinyougou-order-interface.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-order-interface.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-order-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-order-service.iml" filepath="$PROJECT_DIR$/pinyougou-order-service.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-order-service.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-page-interface.iml" filepath="$PROJECT_DIR$/pinyougou-page-interface.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-page-interface.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-page-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-page-service.iml" filepath="$PROJECT_DIR$/pinyougou-page-service.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-page-service.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-page-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-page-web.iml" filepath="$PROJECT_DIR$/pinyougou-page-web.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-page-web.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-page-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pinyougou-parent.iml" filepath="$PROJECT_DIR$/.idea/pinyougou-parent.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-parent.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-pay-interface.iml" filepath="$PROJECT_DIR$/pinyougou-pay-interface.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-pay-interface.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-pay-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-pay-service.iml" filepath="$PROJECT_DIR$/pinyougou-pay-service.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-pay-service.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-pay-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-pojo.iml" filepath="$PROJECT_DIR$/pinyougou-pojo.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-pojo.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-portal-web.iml" filepath="$PROJECT_DIR$/pinyougou-portal-web.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-portal-web.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-portal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-search-interface.iml" filepath="$PROJECT_DIR$/pinyougou-search-interface.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-search-interface.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-search-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-search-service.iml" filepath="$PROJECT_DIR$/pinyougou-search-service.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-search-service.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-search-web.iml" filepath="$PROJECT_DIR$/pinyougou-search-web.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-search-web.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-search-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-seckill-interface.iml" filepath="$PROJECT_DIR$/pinyougou-seckill-interface.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-seckill-interface.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-seckill-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-seckill-service.iml" filepath="$PROJECT_DIR$/pinyougou-seckill-service.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-seckill-service.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-seckill-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-seckill-web.iml" filepath="$PROJECT_DIR$/pinyougou-seckill-web.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-seckill-web.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-seckill-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-sellergoods-interface.iml" filepath="$PROJECT_DIR$/pinyougou-sellergoods-interface.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-sellergoods-interface.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-sellergoods-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-sellergoods-service.iml" filepath="$PROJECT_DIR$/pinyougou-sellergoods-service.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-sellergoods-service.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-sellergoods-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-shop-web.iml" filepath="$PROJECT_DIR$/pinyougou-shop-web.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-shop-web.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-shop-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-solr-util.iml" filepath="$PROJECT_DIR$/pinyougou-solr-util.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-solr-util.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-solr-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-task-service.iml" filepath="$PROJECT_DIR$/pinyougou-task-service.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-task-service.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-task-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-user-interface.iml" filepath="$PROJECT_DIR$/pinyougou-user-interface.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-user-interface.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-user-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-user-service.iml" filepath="$PROJECT_DIR$/pinyougou-user-service.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-user-service.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pinyougou-user-web.iml" filepath="$PROJECT_DIR$/pinyougou-user-web.iml" />
+      <module fileurl="file://G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-user-web.iml" filepath="G:/2018年最新黑马JAVAEE57期基础班就业班（全套）/3-就业班第二段/day18_综合练习/day18_综合练习/pinyougou-user-web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="msg-springboot-01-hello" />
+        <module name="msg-springboot-01-init-02" />
+        <module name="msg-springboot-02-config" />
+        <module name="msg-springboot-02-config-02" />
+        <module name="msg-springboot-03-logging" />
+        <module name="msg-springboot-04-web" />
+        <module name="msg-springboot-05-bill" />
+        <module name="msg-springboot-05-bill-back" />
+        <module name="msg-springboot-06-servlet" />
+        <module name="msg-springboot-07-tomcat" />
+        <module name="msg-springboot-08-data-jdbc" />
+        <module name="msg-springboot-08-data-mybatis" />
+        <module name="msg-springboot-09-data-jpa" />
+        <module name="msg-springboot-10-bill" />
+        <module name="msg-springboot-11-task" />
+        <module name="msg-springboot-12-mail" />
+        <module name="msg-springboot-13-cache" />
+        <module name="mySpringbootDesign" />
+        <module name="springboot_jpa" />
+        <module name="springboot_mybatis" />
+        <module name="springboot_mybatis_xml" />
+        <module name="springboot_quick" />
+        <module name="springboot_quick2" />
+        <module name="springboot_redis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="msg-springboot-01-hello" target="1.8" />
+      <module name="msg-springboot-01-init-02" target="1.8" />
+      <module name="msg-springboot-02-config" target="1.8" />
+      <module name="msg-springboot-02-config-02" target="1.8" />
+      <module name="msg-springboot-03-logging" target="1.8" />
+      <module name="msg-springboot-04-web" target="1.8" />
+      <module name="msg-springboot-05-bill" target="1.8" />
+      <module name="msg-springboot-05-bill-back" target="1.5" />
+      <module name="msg-springboot-06-servlet" target="1.8" />
+      <module name="msg-springboot-07-tomcat" target="1.8" />
+      <module name="msg-springboot-08-data-jdbc" target="1.8" />
+      <module name="msg-springboot-08-data-mybatis" target="1.8" />
+      <module name="msg-springboot-09-data-jpa" target="1.8" />
+      <module name="msg-springboot-10-bill" target="1.8" />
+      <module name="msg-springboot-11-task" target="1.8" />
+      <module name="msg-springboot-12-mail" target="1.8" />
+      <module name="msg-springboot-13-cache" target="1.8" />
+      <module name="mySpringbootDesign" target="1.8" />
+      <module name="springboot_jpa" target="1.8" />
+      <module name="springboot_mybatis" target="1.8" />
+      <module name="springboot_mybatis_xml" target="1.8" />
+      <module name="springboot_quick" target="1.8" />
+      <module name="springboot_quick2" target="1.8" />
+      <module name="springboot_redis" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="msg-springboot-01-hello" options="-parameters" />
+      <module name="msg-springboot-01-init-02" options="-parameters" />
+      <module name="msg-springboot-02-config" options="-parameters" />
+      <module name="msg-springboot-02-config-02" options="-parameters" />
+      <module name="msg-springboot-03-logging" options="-parameters" />
+      <module name="msg-springboot-04-web" options="-parameters" />
+      <module name="msg-springboot-06-servlet" options="-parameters" />
+      <module name="msg-springboot-07-tomcat" options="-parameters" />
+      <module name="msg-springboot-08-data-jdbc" options="-parameters" />
+      <module name="msg-springboot-08-data-mybatis" options="-parameters" />
+      <module name="msg-springboot-09-data-jpa" options="-parameters" />
+      <module name="msg-springboot-11-task" options="-parameters" />
+      <module name="msg-springboot-12-mail" options="-parameters" />
+      <module name="msg-springboot-13-cache" options="-parameters" />
+      <module name="springboot_jpa" options="-parameters" />
+      <module name="springboot_mybatis" options="-parameters" />
+      <module name="springboot_mybatis_xml" options="-parameters" />
+      <module name="springboot_quick" options="-parameters" />
+      <module name="springboot_quick2" options="-parameters" />
+      <module name="springboot_redis" options="-parameters" />
+    </option>
+  </component>
+</project>

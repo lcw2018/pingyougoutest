@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.lcw.msgspringboot08datamybatis.mapper.BillMapper">
+
+    <select id="getBill" resultType="com.lcw.msgspringboot08datamybatis.entities.Bill">
+        select  * from bill where  bid=#{bid}
+    </select>
+
+
+    <insert id="addBill" useGeneratedKeys="true" keyProperty="bid">
+
+        insert  into bill (bill_code,bill_name) values (#{billCode},#{billName})
+
+    </insert>
+
+
+</mapper>

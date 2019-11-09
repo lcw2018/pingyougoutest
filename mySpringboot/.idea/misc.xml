@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/msg-springboot-07-tomcat" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/mySpringbootDesign/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_quick/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_quick2/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_mybatis_xml/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_redis/pom.xml" />
+        <option value="$PROJECT_DIR$/mxgspringboot01hello/pom.xml" />
+        <option value="$PROJECT_DIR$/msgspringboot01init02/pom.xml" />
+        <option value="$PROJECT_DIR$/msg-springboot-02-config/pom.xml" />
+        <option value="$PROJECT_DIR$/msg-springboot-02-config-02/pom.xml" />
+        <option value="$PROJECT_DIR$/msg-springboot-05-bill/pom.xml" />
+        <option value="$PROJECT_DIR$/msg-springboot-06-bill-back/pom.xml" />
+        <option value="$PROJECT_DIR$/msg-springboot-07-servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/msg-springboot-08-tomcat/pom.xml" />
+        <option value="$PROJECT_DIR$/msg-springboot-10-bill/pom.xml" />
+        <option value="$PROJECT_DIR$/msg-springboot-01-hello/pom.xml" />
+        <option value="$PROJECT_DIR$/msg-springboot-01-init-02/pom.xml" />
+        <option value="$PROJECT_DIR$/msg-springboot-06-servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/msg-springboot-07-tomcat/pom.xml" />
+        <option value="$PROJECT_DIR$/msg-springboot-08-data-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/msg-springboot-08-data-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/msg-springboot-09-data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/msg-springboot-11-task/pom.xml" />
+        <option value="$PROJECT_DIR$/msg-springboot-12-mail/pom.xml" />
+        <option value="$PROJECT_DIR$/msg-springboot-13-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/msg-springboot-03-logging/pom.xml" />
+        <option value="$PROJECT_DIR$/msg-springboot-04-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
